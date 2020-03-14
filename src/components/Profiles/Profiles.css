@@ -1,0 +1,23 @@
+.single-profile{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+
+}
+
+.profile-image{
+    padding: 20px;
+}
+
+.profile-info{
+    padding: 20px;
+}
+
+.addBtn{
+    background-color: #393637;
+    color: white;
+    width: 120px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
